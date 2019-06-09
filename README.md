@@ -1,15 +1,46 @@
-# Scripts
+<div align="center"><h1>Scripts</h1>
 
-NormEZ : Script de norme à jour et complet
+Les scripts sont utiles pour la programmation à Epitech notamment avec l'outil Git
 
-Checkpatch : Script de norme non mis à jour
+<img src="https://www.geekzone.fr/wp-content/uploads/2015/12/Discord-Banner-Horizontal-02.jpg" alt="Scripts" /></div>
 
-Cmake : Création d'un makefile
+## Scripts
 
-Iclone : Clone un repository de n'importequel utilisateur
+### Outils
 
-Mr_clean : Suppression de fichiers indésirables
+Les scripts fonctionne à l'aide du Bash
 
-Prepare_my_repo : Création de repository avec nom et droits
+- [Bash](https://tiswww.case.edu/php/chet/bash/bashref.html)
+- [Git](https://git-scm.com)
 
-Push_that : Push dans le repository actuel avec commit
+## Installation et compilation
+
+### Récupération du projet
+
+Après avoir cloné le [répertoire](https://github.com/HugoSohm/Scripts):
+
+```
+git clone https://github.com/HugoSohm/Scripts
+```
+
+- Se rendre à la racine du projet :
+
+```
+$ cd Scripts
+```
+
+- Vérifier que tout est à jour :
+
+```
+$ git checkout master
+```
+
+## Scripts
+
+- NormEZ: Script de norme à jour et complet
+- Checkpatch: Script de norme non mis à jour
+- Cmake: Création d'un makefile
+- Iclone: Clone un repository de n'importequel utilisateur
+- Mr_clean: Suppression de fichiers indésirables
+- Prepare_my_repo: Création de repository avec nom et droits
+- Push_that: Push dans le repository actuel avec commit
