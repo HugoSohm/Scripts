@@ -2,7 +2,7 @@
 
 Les scripts sont utiles pour la programmation à Epitech notamment avec l'outil Git
 
-<img src="https://www.geekzone.fr/wp-content/uploads/2015/12/Discord-Banner-Horizontal-02.jpg" alt="Scripts" /></div>
+<img src="https://cdn-images-1.medium.com/max/1600/1*xjraSVbFOl1b5346bPGoIw.png" alt="Scripts" /></div>
 
 ## Scripts
 
